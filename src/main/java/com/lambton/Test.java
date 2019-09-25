@@ -9,5 +9,12 @@ public class Test {
 
       System.out.println(LambtonStringTools.binaryToDecimal(1000));
 
+        LambtonStringTools t=new LambtonStringTools();
+
+    System.out.println("Max occurring character is " +mostfrequent("sample"));
+
+}
+
+
     }
 }
